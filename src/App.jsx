@@ -34,7 +34,7 @@ function App() {
               <input
                 type="password"
                 className="py-3 pl-4 text-sm rounded-md w-full bg-special-mainBg border border-gray-03 text-gray-01 focus:border-black focus:outline-none focus:ring-0"
-                placeholder=""
+                placeholder="************"
                 name="password"
                 id="password"
               />
@@ -74,7 +74,7 @@ function App() {
             <svg
               class="h-6 w-6 mr-2"
               xmlns="http://www.w3.org/2000/svg"
-
+              xmlns:xlink="http://www.w3.org/1999/xlink"
               width="800px"
               height="800px"
               viewBox="-0.5 0 48 48"
